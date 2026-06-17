@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi 👋 I'm Tanay Shrivastava<br><br>🎓 B.Tech CSE (IoT, Cybersecurity & Blockchain) @ LNCT<br><br>🏆 ServiceNow CSA Certified<br><br>💻 Full-Stack Developer | AI Enthusiast | Cloud Learner | Web3<br><br>🚀 Currently Building:<br>- AI-powered applications<br>- Full-stack web projects<br>- ServiceNow & Salesforce solutions<br><br>📫 Reach me: shrivastavatanay22@gmail.com or tanayshrivastava19@gmail.com
+
+Hi 👋 I'm Tanay Shrivastava<br><br>🎓 B.Tech CSE (IoT, Cybersecurity & Blockchain) @ LNCT<br><br>🏆 ServiceNow CSA Certified<br><br>💻 Full-Stack Developer | AI Enthusiast | Cloud Learner | Web3<br><br>🚀 Currently Building:<br>- AI-powered applications<br>- Full-stack web projects<br>- ServiceNow & Salesforce solutions<br><br>📫 Reach me: shrivastavatanay22@gmail.com or tanayshrivastava19@gmail.com / Contact:- +916266553466
 
 
 ## 🌐 Socials:
