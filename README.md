@@ -1,6 +1,28 @@
 
 Hi 👋 I'm Tanay Shrivastava<br><br>🎓 B.Tech CSE (IoT, Cybersecurity & Blockchain) @ LNCT<br><br>🏆 ServiceNow CSA Certified<br><br>💻 Full-Stack Developer | AI Enthusiast | Cloud Learner | Web3<br><br>🚀 Currently Building:<br>- AI-powered applications<br>- Full-stack web projects<br>- ServiceNow & Salesforce solutions<br><br>📫 Reach me: shrivastavatanay22@gmail.com or tanayshrivastava19@gmail.com / Contact:- +916266553466
 
+🌐 Portfolio: [tanayshrivastava.vercel.app](https://tanayshrivastava.vercel.app/)
+
+## 🛍️ My Products
+
+### 🔐 AI SuperPrompt Vault — 300+ Premium AI Prompts
+<img src="Ai SuperPrompt Vault.png" width="500"/>
+
+40+ pages of ready-to-use prompts · Works with ChatGPT, Claude, Gemini, Grok & more · Instant download
+
+👉 **[Get it here](https://pages.razorpay.com/aaipromptvault)**
+
+---
+
+### 🏛️ Sarkari AI Saathi Bundle — AI Handbook + 300 Prompt Vault
+<img src="Sarkari Ai Bundle.png" width="500"/>
+
+Practical AI toolkit for Indian Government workflows — RTI replies, audit, reports, panchayat & department workflows
+
+👉 **[Get it here](https://pages.razorpay.com/sarkari-ai-bundle)**
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanay__shrivastava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanayshrivastava-cse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tanay__22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanayshrivastava19@gmail.com) 
